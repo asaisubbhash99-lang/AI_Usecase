@@ -1,0 +1,8 @@
+{
+  "API_KEY": "AIzaSyBygBuDUC2mOoDZAcQw3lP4RCyv_wetqg0",
+  "DB_HOST": "localhost",
+  "DB_PORT": "5432",
+  "DB_NAME": "postgres",
+  "DB_USER": "postgres",
+  "DB_PASSWORD": "manage"
+}
