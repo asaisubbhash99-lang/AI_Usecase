@@ -1,5 +1,5 @@
 {
-  "API_KEY": "AIzaSyBygBuDUC2mOoDZAcQw3lP4RCyv_wetqg0",
+  "API_KEY": "YOUR API KEY",
   "DB_HOST": "localhost",
   "DB_PORT": "5432",
   "DB_NAME": "postgres",
